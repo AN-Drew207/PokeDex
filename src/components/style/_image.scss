@@ -1,10 +1,15 @@
 .poke-container{
     align-items: center;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     height: auto;
-    margin: 30px 0px;
+    margin: 10px 0px;
     width: 100vw;
+    .title{
+        color: #ffff00;
+        margin: 10px 0px 0px;
+    }
     .poke-img{
         height: 200px;
         width: 400px;
