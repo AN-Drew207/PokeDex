@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/PokeDex/static/css/main.39945727.chunk.css",
+    "main.js": "/PokeDex/static/js/main.6ced1009.chunk.js",
+    "main.js.map": "/PokeDex/static/js/main.6ced1009.chunk.js.map",
+    "runtime-main.js": "/PokeDex/static/js/runtime-main.bd82155d.js",
+    "runtime-main.js.map": "/PokeDex/static/js/runtime-main.bd82155d.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/PokeDex/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.fa14752a.chunk.js": "/PokeDex/static/js/2.fa14752a.chunk.js",
+    "static/js/2.fa14752a.chunk.js.map": "/PokeDex/static/js/2.fa14752a.chunk.js.map",
+    "index.html": "/PokeDex/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/PokeDex/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.39945727.chunk.css.map": "/PokeDex/static/css/main.39945727.chunk.css.map",
+    "static/js/2.fa14752a.chunk.js.LICENSE.txt": "/PokeDex/static/js/2.fa14752a.chunk.js.LICENSE.txt",
+    "static/media/who_pokemon.028aa06a.jpg": "/PokeDex/static/media/who_pokemon.028aa06a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd82155d.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.fa14752a.chunk.js",
+    "static/css/main.39945727.chunk.css",
+    "static/js/main.6ced1009.chunk.js"
+  ]
+}
